@@ -1,1 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Powerful+hypixel+bot+Mirai)](https://git.io/typing-svg)
+### Mirai
+
+![1](https://github.com/user-attachments/assets/8ef5dc78-088b-4fe2-9d61-82dc01d1bf6b)
+
