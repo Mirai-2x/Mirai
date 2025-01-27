@@ -7,10 +7,12 @@ Kuudra Gang 봇 프리미엄을 2달 사용해보고, 요금이 비싸 만들게
   
   
 ## Features
- - 'Attribute'를 가장 저렴한 가격에 업그레이드 해주는 최저 경로를 찾아줍니다.
+ - 'Attribute'를 가장 저렴한 가격에 업그레이드 가능한 조합을 찾아줍니다.
  - 'Attirubte 1, 2'가 포함된 아이템을 부위와 종류별로 정렬하여 찾아줍니다.
 
-## 
+찾은 아이템들은 uuid를 함께 불러와 '/viewauction' 명령어로 빠르게 엑세스 할 수 있습니다.
+
+ 
 ![1](https://github.com/user-attachments/assets/8ef5dc78-088b-4fe2-9d61-82dc01d1bf6b)
 
 ![2](https://github.com/user-attachments/assets/2c3dd33f-0b1b-4b46-83e1-72d931994f32)
