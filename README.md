@@ -3,7 +3,7 @@ Mirai는 *Python*으로 제작된 디스코드 봇 입니다.
 Kuudra Gang 봇 프리미엄을 2달 사용하며, 요금이 부담되어 `Mirai`를 만들게 되었습니다.
 
 Mirai를 사용하려면 유료 구독이 필요하며, 가격은 단 **1$/M** 입니다.
-구독은 Patreon을 통해 가능합니다. '[여기](patreon.com/MiraiBot)' 를 클릭하여 요금제에 대해 알아보세요.
+구독은 Patreon을 통해 가능합니다. '[여기](https://www.patreon.com/MiraiBot)' 를 클릭하여 요금제에 대해 알아보세요.
 
 Mirai는 개발 단계에 있으며, 제가 **설정한 디스코드 서버**에서만 **작동**합니다.
 사용을 원하시면 '[여기](https://discord.gg/JpTdZPBPd2)' 를 클릭하여 디스코드에 참여하세요.
