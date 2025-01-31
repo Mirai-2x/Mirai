@@ -1,18 +1,22 @@
 ## Mirai
-Mirai는 Python으로 제작된 디스코드 봇 입니다.  
+Mirai는 *Python*으로 제작된 디스코드 봇 입니다.  
 Kuudra Gang 봇 프리미엄을 2달 사용하며, 요금이 부담되어 `Mirai`를 만들게 되었습니다.
 
-배포하는 봇이 아닌 개인이 사용하기 위한 봇입니다.  
-무료로 사용을 원하시면 '[여기](https://discord.gg/JpTdZPBPd2)' 를 클릭하여 디스코드에 참여하세요.  
+Mirai를 사용하려면 유료 구독이 필요하며, 가격은 단 **1$/M** 입니다.
+구독은 Patreon을 통해 가능합니다. '[여기](patreon.com/MiraiBot)' 를 클릭하여 요금제에 대해 알아보세요.
 
-Mirai는 항상 명령어를 사용한 시점에 최신 경매장 API를 요청합니다.  
-실행 속도가 Kuudra Gang보다 1~3초 느리지만, 더욱 저렴한 아이템을 찾는 경우가 있습니다.
+Mirai는 개발 단계에 있으며, 제가 **설정한 디스코드 서버**에서만 **작동**합니다.
+사용을 원하시면 '[여기](https://discord.gg/JpTdZPBPd2)' 를 클릭하여 디스코드에 참여하세요.
+
+Mirai는 명령어를 사용한 시점에 항상 **최신 경매장 데이터**를 받아옵니다.  
+실행 속도가 *Kuudra Gang Bot*보다 1~3초 느리지만, 더욱 **저렴한 아이템**을 찾는 경우가 있습니다.
   
 ## Features
- - 'Attribute'를 가장 저렴한 가격에 업그레이드 가능한 조합을 찾아줍니다.
- - 'Attribute 1, 2'가 포함된 아이템을 부위와 종류별로 정렬하여 찾아줍니다.
+ - Attribute를 가장 저렴한 가격에 업그레이드 가능한 조합을 찾아줍니다.
+   찾은 아이템들은 uuid를 함께 불러와 *'/viewauction'* 명령어로 빠르게 엑세스 할 수 있습니다.
 
-찾은 아이템들은 uuid를 함께 불러와 '/viewauction' 명령어로 빠르게 엑세스 할 수 있습니다.
+## Features Comming Soon
+ - 출시된 `/au` 기능이 안정화가 되면, 매우 많은 기능들을 업데이트 예정입니다.
 
 ## Usage
 최저가 조합을 찾을 땐 `/au` 명령어를 사용할 수 있습니다.  
@@ -30,11 +34,5 @@ Magic Find Chestplate를 9레벨에서 10레벨까지 강화하려 했을 때
 또한 하단의 복사(Copy) 기능을 통해 `viewauction {uuid}` 부분을
 쉽게 복사할 수 있습니다.<br>
 ![4](https://github.com/user-attachments/assets/3073381a-ab8a-40a3-8160-3c3c1da97ffa)<br>
-
-Attribute가 포함된 아이템을 찾으려 할 땐, `/if` 명령어를 사용할 수 있습니다.  
-아이템의 종류와 부위별로 해당 Attribute가 포함된 최저가 아이템을 찾아줍니다.  
-<br>
-`Mana Pool, Mana Regeneration`두 개가 포함된 갑옷을 다음과 같이 찾았습니다.<br>
-![5](https://github.com/user-attachments/assets/a02d4782-737a-40d2-a2eb-ad1efa634d52)
 
 
